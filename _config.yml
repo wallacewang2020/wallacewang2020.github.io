@@ -1,16 +1,16 @@
 # Site settings
-title: Pudhina
-description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
-
+title: '亲爱的博客'
+description: 
+这是一个献给美女的博宽
+  
 baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+url: "https://wallacewang2020.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
+  fullname: wang
+  github: wallace
   linkedin: linkedin
-  email: example@email.com
+  email: 904400933@qq.com
 
 
 # Syntax highlighting
