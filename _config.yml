@@ -1,8 +1,6 @@
 # Site settings
 title: '亲爱的博客'
-description: >
-这是一个献给美女的博宽
-  
+description: 'nihao'
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://wallacewang2020.github.io" # the base hostname & protocol for your site
 
